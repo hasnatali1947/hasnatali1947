@@ -5,8 +5,8 @@
 </h1>
 
   <a target="_blank">
-    <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Hi.gif" width="40px" />
-  </a>
+  <img align="right" height="250" width="400" alt="GIF" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/code.gif">
+</a>
 
 <h3 align="center">A Passionate Full Stack Developer From Pakistan</h3>
 
