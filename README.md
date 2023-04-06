@@ -51,10 +51,8 @@
 <p align="center">
 <a href="https://github.com/hasnatali1947">
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=hasnatali1947&" />
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=smunoz1988&layout=compact&exclude_lang=java+r&theme=vue-light" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=hasnatali1947&layout=compact&exclude_lang=java+r&theme=vue-light" />
 </a>
 </p>
-
-
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
