@@ -4,6 +4,10 @@
    <img align="center" src="https://readme-typing-svg.demolab.com?font=Poppins&size=30&center=true&pause=1000&color=blue&width=435&lines=Hi 👋, I'm hasnat" alt="Typing text" />
 </h1>
 
+  <a target="_blank">
+    <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Hi.gif" width="40px" />
+  </a>
+
 <h3 align="center">A Passionate Full Stack Developer From Pakistan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hasnatali1947&label=Profile%20views&color=0e75b6&style=flat" alt="hasnatali1947" /> </p>
