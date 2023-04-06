@@ -4,7 +4,6 @@
   <img align="right" height="400" width="900" alt="GIF" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/code.gif">
 </a>
 <br>
-<br>
 <br/>
 <br/>
 
@@ -54,8 +53,8 @@
 
 <p align="center">
 <a href="https://github.com/hasnatali1947">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=hasnatali1947&" />
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=hasnatali1947&layout=compact&exclude_lang=java+r&theme=vue-light" />
+  <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=hasnatali1947&" />
+  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=hasnatali1947&layout=compact&exclude_lang=java+r&theme=vue-light" />
 </a>
 </p>
 
