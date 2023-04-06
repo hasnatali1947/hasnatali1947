@@ -48,5 +48,14 @@
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> 
 <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hasnatali1947&" alt="hasnatali1947" /></p>
+<p></p>
+
+<p align="center">
+<a href="https://github.com/smunoz1988">
+   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hasnatali1947&" alt="hasnatali1947" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=smunoz1988&layout=compact&exclude_lang=java+r&theme=vue-light" />
+</a>
+</p>
+
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
