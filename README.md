@@ -1,7 +1,7 @@
 <img src="./header.jpg" />
 
 <h1 align="center"> 
-   <img align="center" src="https://readme-typing-svg.demolab.com?font=Poppins&size=30&center=true&pause=1000&color=blue&width=435&lines=Hi 👋, I'm Hasnat" alt="Typing text" />
+   <img align="center" src="https://readme-typing-svg.demolab.com?font=Poppins&size=30&center=true&pause=1000&color=blue&width=435&lines=Hi 👋, I'm hasnat" alt="Typing text" />
 </h1>
 
 <h3 align="center">A Passionate Full Stack Developer From Pakistan</h3>
@@ -16,7 +16,7 @@
 <p align="left">
 <a href="https://twitter.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Hasnat Khan" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/hasnat-ali-4052b025a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Hasnat Ali" height="30" width="40" /></a>
-<a href="https://fb.com/100005522566070" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Hasnat Ali" height="30" width="40" /></a>
+<a href="[https://fb.com/100005522566070](https://web.facebook.com/?_rdc=1&_rdr)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Hasnat Ali" height="30" width="40" /></a>
 <a href="https://www.instagram.com/hasnat263/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shayan_ali_bakhsh" height="30" width="40" /></a>
 <a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Hasnat" height="30" width="40" /></a>
 </p>
