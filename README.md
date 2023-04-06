@@ -52,7 +52,7 @@
 
 <p align="center">
 <a href="https://github.com/smunoz1988">
-   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hasnatali1947&" alt="hasnatali1947" />
+  <img height="180em" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hasnatali1947&" alt="hasnatali1947" />
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=smunoz1988&layout=compact&exclude_lang=java+r&theme=vue-light" />
 </a>
 </p>
