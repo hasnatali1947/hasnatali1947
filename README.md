@@ -1,10 +1,11 @@
 <!-- <img src="./header.jpg" /> -->
 
  <a target="_blank">
-  <img align="right" height="250" width="800" alt="GIF" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/code.gif">
+  <img align="right" height="400" width="900" alt="GIF" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/code.gif">
 </a>
 <br>
 <br>
+<br/>
 <br/>
 
 <h1 align="center"> 
