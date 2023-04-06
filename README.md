@@ -1,7 +1,7 @@
 <!-- <img src="./header.jpg" /> -->
- <a target="_blank">
+<!--  <a target="_blank">
   <img align="right" height="250" width="400" alt="GIF" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/code.gif">
-</a>
+</a> -->
 
 <h1 align="center"> 
    <img align="center" src="https://readme-typing-svg.demolab.com?font=Poppins&size=30&center=true&pause=1000&color=blue&width=435&lines=Hi 👋, I'm hasnat" alt="Typing text" />
