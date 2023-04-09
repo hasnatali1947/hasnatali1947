@@ -26,7 +26,6 @@
 <a href="https://www.linkedin.com/in/hasnat-ali-4052b025a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Hasnat Ali" height="30" width="40" /></a>
 <a href="https://web.facebook.com/profile.php?id=100010910132555" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Hasnat Ali" height="30" width="40" /></a>
 <a href="https://www.instagram.com/hasnat263/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shayan_ali_bakhsh" height="30" width="40" /></a>
-<a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Hasnat" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
