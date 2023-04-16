@@ -10,7 +10,7 @@
  <a target="_blank">
   <img align="right" height="400" width="900" alt="GIF" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/code.gif">
 </a>
-
+<br/>
 <br/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hasnatali1947&label=Profile%20views&color=0e75b6&style=flat" alt="hasnatali1947" /> </p>
